@@ -25,8 +25,7 @@ Starting the Project:
 php -S localhost:8080
 ```
 MySQL Configuration:
-```
-$servername = "localhost";
-$username = "root";
-$password = "12345678";
-```
+`$servername = "localhost";`
+`$username = "root";`
+`$password = "12345678";`
+
