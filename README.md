@@ -15,7 +15,7 @@ Features:
 Installation:
 
 - Install Composer: Download and install Composer by following the instructions at Composer's official website.
-- Install AltoRouter: Run the following command in the root directory of your project to install AltoRouter:
+- Install AltoRouter: Run the following command in the root directory of your project to install AltoRouter:<br />
 `composer require altorouter/altorouter`
 
 Starting the Project:
