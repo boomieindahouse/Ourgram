@@ -1,8 +1,10 @@
 # Ourgram
- 
+
+## Overview
+
 This project is a basic web application designed to replicate some of Instagram's core features. It is developed using the AltoRouter framework for PHP routing on the backend, with MySQL handling the database management.
 
-Features:
+## Features
 
 - User Authentication: Users can register, log in, and log out.
 - Profile Management: Users can update their profile information and profile picture.
