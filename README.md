@@ -23,7 +23,7 @@ Starting the Project:
 - To start the project, run the following command in the root directory
 `php -S localhost:8080`
 
-MySQL Configuration
+MySQL Configuration<br />
 `$servername = "localhost";`<br />
 `$username = "root";`<br />
 `$password = "12345678";`
