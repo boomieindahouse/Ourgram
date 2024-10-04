@@ -12,18 +12,18 @@ This project is a basic web application designed to replicate some of Instagram'
 - Likes and Comments: Users can like and comment on posts.
 - Real-time Notifications: Users will receive notifications for likes, comments, and follows.
 
-Installation:
+### Installation
 
 - Install Composer: Download and install Composer by following the instructions at Composer's official website.
 - Install AltoRouter: Run the following command in the root directory of your project to install AltoRouter:<br />
 `composer require altorouter/altorouter`
 
-Starting the Project:
+### Starting the Project
 
 - To start the project, run the following command in the root directory:<br />
 `php -S localhost:8080`
 
-MySQL Configuration:<br />
+### MySQL Configuration:<br />
 `$servername = "localhost";`<br />
 `$username = "root";`<br />
 `$password = "12345678";`
