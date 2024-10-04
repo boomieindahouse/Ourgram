@@ -21,8 +21,9 @@ composer require altorouter/altorouter
 Starting the Project:
 
 - To start the project, run the following command in the root directory:
+```
 php -S localhost:8080
-
+```
 MySQL Configuration:
 $servername = "localhost";
 $username = "root";
